@@ -1,0 +1,8 @@
+.idea
+*.iml
+# Project exclude paths
+/target/
+.DS_Store
+*.docx
+out/artifacts/hex_ai_jar/hex-ai.jar
+META-INF/MANIFEST.MF
